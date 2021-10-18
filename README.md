@@ -9,7 +9,7 @@ Passionately studying Computer Science and looking forward to expanding my prese
 ✔️ Successfully finished TECH Course at Petnica Science Center of Serbia. <br />
 ✔️ CCNA - Cisco Academy Networking R&S <br />
 ✔️ Participated and won prizes on several Hackathons. <br />
-✔️ Coordinated several local projects related to advance of education in Technology fields. <br />
+✔️ Coordinated several projects in field of improving education in Technology fields. <br />
 
 ## Top Skills (Languages) <br />
 
