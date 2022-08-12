@@ -2,9 +2,11 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/petar-randjelovic-3518511b4)
 
-Currently Software Developer @ **_TrustCode_**
+📍 Currently Software Engineer @ **_TrustCode_**
 
-Passionately studying Computer Science and looking forward to expanding my present knowledge and expertise. Always aiming to contribute to the cause and learn from more experienced colleagues. My main goal is to aid and assists the projects and the team i am working with, using my current skillset and ideas. <br />
+Always looking forward to expanding my present knowledge and expertise. Aiming to contribute to the cause and learn from more experienced colleagues.
+<br/>
+
 ##
 ✔️ Successfully finished TECH Course at Petnica Science Center of Serbia. <br />
 ✔️ CCNA - Cisco Academy Networking R&S <br />
