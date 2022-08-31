@@ -4,7 +4,8 @@
 
 📍 Currently Software Engineer @ **_TrustCode_**
 
-Always looking forward to expanding my present knowledge and expertise. Aiming to contribute to the cause and learn from more experienced colleagues.
+Very passionate and ethusiastic about future and development from an early age. 
+Although i may say that my biggest passions lie with Artificial Intelligence and Big Data, i like to stay informed and know about a myriad of different topics.
 <br/>
 
 ##
