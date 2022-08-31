@@ -7,6 +7,8 @@
 Very passionate and ethusiastic about future and development from an early age. 
 
 Although i may say that my biggest passions lie with Artificial Intelligence and Big Data, i like to stay informed and know about a myriad of different topics.
+
+Most interesting thing i have recently read: [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 <br/>
 
 ##
