@@ -2,7 +2,7 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/petar-randjelovic-3518511b4)
 
-📍 Currently Software Engineer @ **_TrustCode_**
+[![Software Engineer - TrustCode Solutions](https://img.shields.io/badge/Software%20Engineer-TrustCode%20Solutions-2ea44f?)](https://trustcode.dev/?gclid=Cj0KCQjw08aYBhDlARIsAA_gb0fFtWhHuezX1Wo8sqpgmAv60CAhslMHxZUvdvMGAstJBxDrhMkXGw0aAtP5EALw_wcB)
 
 Very passionate and ethusiastic about future and development from an early age. 
 
@@ -13,7 +13,7 @@ Most interesting thing i have recently read: [List of emerging technologies](htt
 
 ##
 ✔️ Successfully finished TECH Course at Petnica Science Center of Serbia. <br />
-✔️ CCNA - Cisco Academy Networking R&S <br />
+✔️ CCNA - Cisco Academy Networking R&S
 ✔️ Participated and won prizes on several Hackathons. <br />
 ✔️ Coordinated several projects in field of improving education in Technology fields. <br />
 
