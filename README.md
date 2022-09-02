@@ -13,7 +13,7 @@ Most interesting thing i have recently read: [List of emerging technologies](htt
 
 ##
 ✔️ Successfully finished TECH Course at Petnica Science Center of Serbia. <br />
-✔️ CCNA - Cisco Academy Networking R&S
+✔️ CCNA - Cisco Academy Networking R&S <br />
 ✔️ Participated and won prizes on several Hackathons. <br />
 ✔️ Coordinated several projects in field of improving education in Technology fields. <br />
 
