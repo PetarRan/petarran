@@ -1,14 +1,12 @@
-## About me
-
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/petar-randjelovic-3518511b4)
-
-[![Software Engineer - TrustCode Solutions](https://img.shields.io/badge/Software%20Engineer-TrustCode%20Solutions-2ea44f?)](https://trustcode.dev/?gclid=Cj0KCQjw08aYBhDlARIsAA_gb0fFtWhHuezX1Wo8sqpgmAv60CAhslMHxZUvdvMGAstJBxDrhMkXGw0aAtP5EALw_wcB)
+## Hi there!
 
 Very passionate and ethusiastic about future and development from an early age. 
 
 Although i may say that my biggest passions lie with Artificial Intelligence and Big Data, i like to stay informed and know about a myriad of different topics.
 
 Most interesting thing i have recently read: [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/petar-randjelovic-3518511b4)
 <br/>
 
 ##
