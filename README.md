@@ -1,3 +1,7 @@
+<p align="right" width="100%">
+<img src="https://gpvc.arturio.dev/PetarRan" />
+</p>
+
 ## Hi there!
 
 Very passionate and ethusiastic about future and development from an early age. 
@@ -6,10 +10,10 @@ Although i may say that my biggest passions lie with Artificial Intelligence and
 
 Most interesting thing i have recently read: [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/petar-randjelovic-3518511b4)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/petar-randjelovic-3518511b4) 
 <br/>
 
-##
+## Courses
 ✔️ Successfully finished TECH Course at Petnica Science Center of Serbia. <br />
 ✔️ CCNA - Cisco Academy Networking R&S <br />
 ✔️ Participated and won prizes on several Hackathons. <br />
@@ -23,11 +27,4 @@ Most interesting thing i have recently read: [List of emerging technologies](htt
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Stats
 
-<p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=PetarRan&show_icons=true&theme=dracula&locale=en" height=150/>
-</p> <br /> <br />
-<p align="center" width="100%">
-<img src="https://gpvc.arturio.dev/PetarRan" />
-</p>
