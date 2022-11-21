@@ -2,7 +2,7 @@
 <img src="https://gpvc.arturio.dev/PetarRan" />
 </p>
 
-## Hi there!
+## Welcome!
 
 Very passionate and ethusiastic about future and development from an early age. 
 
