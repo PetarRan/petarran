@@ -19,6 +19,9 @@ Most interesting thing i have recently read: [List of emerging technologies](htt
 ✔️ Participated and won prizes on several Hackathons. <br />
 ✔️ Coordinated several projects in field of improving education in Technology fields. <br />
 
+![](https://media.tenor.com/baKBrVTtR64AAAAM/zyzz-fistpump.gif)
+
+
 ## Relevant Skills & Technologies <br />
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
