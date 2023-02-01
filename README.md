@@ -11,6 +11,8 @@ Although i may say that my biggest passions lie with Artificial Intelligence and
 Most interesting thing i have recently read: [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://rs.linkedin.com/in/petar-randjelovic-3518511b4) 
+
+➡️ [My Devpost](https://devpost.com/PetarRan) ⬅️
 <br/>
 
 ## Courses
