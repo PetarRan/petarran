@@ -1,11 +1,11 @@
 ## Hi 👋 I am Petar!
 
-**A Full-stack web developer that enjoys nature and hiking, sketching and reading.** 
+### **A Full-stack web developer, Co-founder of** [Vendo Systems](https://github.com/Vendo-Systems)
 
 I am a software engineer that loves a challange and a dynamic environment. I consider myself as a stress-positive person.
 
 - 🌐 Visit my [Linkedin](https://rs.linkedin.com/in/petar-randjelovic-3518511b4) to connect.
-- 📖 My personal [Code Guide E-book Series](https://www.amazon.com/dp/B0BT5VHMJ7?binding=kindle_edition&ref_=ast_author_bsi)
+- 📖 My personal [Code Guide E-book Series](https://www.amazon.com/dp/B0BT5VHMJ7?binding=kindle_edition&ref_=ast_author_bsi), [Website](https://felixray.webflow.io/)
 - 👨‍💻 My profile on [DevPost](https://devpost.com/PetarRan)
 
 <div style="display: flex; justify-content: space-between;">
