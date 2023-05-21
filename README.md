@@ -15,7 +15,6 @@
 
 <br>
 
-- 🌱 This year i co-founded [Vendo Systems](https://github.com/Vendo-Systems) with childhood friends.
 - 🌐 Visit my [Linkedin](https://rs.linkedin.com/in/petar-randjelovic-3518511b4) to connect.
 - 📖 My personal [Code Guide E-book Series](https://www.amazon.com/dp/B0BT5VHMJ7?binding=kindle_edition&ref_=ast_author_bsi)
 - 👨‍💻 My profile on [DevPost](https://devpost.com/PetarRan)
