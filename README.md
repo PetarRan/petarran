@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 I am Petar!</h1>
 
-<h3 align="center">A Full-stack web developer, Co-founder of Vendo Systems</h3>
+<h3 align="center">A Full-stack web developer</h3>
 
 <p align="center">I am a software engineer that loves a challange and a dynamic environment,<br> but also nature, hiking, sketching and reading. I consider myself a stress-positive person.</p>
 
