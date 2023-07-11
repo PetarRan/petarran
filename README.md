@@ -2,7 +2,7 @@
 
 <h3 align="center">A Full-stack web developer</h3>
 
-<p align="center">I am a software engineer that loves a challange and a dynamic environment,<br> but also nature, hiking, sketching and reading. I consider myself a stress-positive person.</p>
+<p align="center">I am a software engineer that loves a challenge and a dynamic environment,<br> but also nature, hiking, sketching and reading. I consider myself a stress-positive person.</p>
 
 <div style="display: flex; justify-content: space-between;" align="center">
   <a href="https://rs.linkedin.com/in/petar-randjelovic-3518511b4" target="_blank">
