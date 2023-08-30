@@ -11,10 +11,6 @@
   <a href="mailto:randelovic.petar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail URL" />
   </a>
+  
+<img src="https://www.jaggaer.com/app/uploads/2020/10/cropped-cropped-jaggaer-logo-site-icon-1-270x270-1-32x32.png" alt="image" width="16" height="16"> SWE @ [Jaggaer](https://www.jaggaer.com/), 👨‍💻 My profile on [DevPost](https://devpost.com/PetarRan)
 </div>
-
-<br>
-
-- 🌐 Visit my [Linkedin](https://rs.linkedin.com/in/petar-randjelovic-3518511b4) to connect.
-- 📖 My personal [Code Guide E-book Series](https://www.amazon.com/dp/B0BT5VHMJ7?binding=kindle_edition&ref_=ast_author_bsi)
-- 👨‍💻 My profile on [DevPost](https://devpost.com/PetarRan)
