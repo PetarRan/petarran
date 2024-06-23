@@ -3,10 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://www.jaggaer.com/app/uploads/2020/10/cropped-cropped-jaggaer-logo-site-icon-1-270x270-1-32x32.png" alt="image" width="16" height="16"> SWE @ [Jaggaer](https://www.jaggaer.com/), 👨‍💻 My profile on [DevPost](https://devpost.com/PetarRan)
 </div>
 
-Full-stack Developer
---------------------
-
-Petar is a Full-stack software engineer with 3+ years of experience in building web applications from scratch, UI's, architecture of secure REST APIs and fast, scalable databases. He has a proven track record of success in global hackathons.
+I am a Full-stack Software Engineer with 3+ years of experience in building web applications from scratch, UI's, architecture of secure REST APIs and fast, scalable databases. Proven track record of success in global hackathons.
 
 *   🌍  I'm based in Belgrade, Serbia, formally Europe.
 *   🧠  I'm learning about desiging data-intensive applications.
