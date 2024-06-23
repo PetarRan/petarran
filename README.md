@@ -10,7 +10,9 @@ Petar is a Full-stack software engineer with 3+ years of experience in building 
 
 *   🌍  I'm based in Belgrade, Serbia, formally Europe.
 *   🧠  I'm learning about desiging data-intensive applications.
-*   ⚡  I can draw funny caricatures in under a minute.<a href="https://www.github.com/petarran" target="_blank" rel="noreferrer"><img
+*   ⚡  I can draw funny caricatures in under a minute.
+
+<a href="https://www.github.com/petarran" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/petarran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Some of my skills.. 
