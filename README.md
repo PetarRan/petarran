@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Petar Ran
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Petar
 =================================================================================================================================
 <img src="https://www.jaggaer.com/app/uploads/2020/10/cropped-cropped-jaggaer-logo-site-icon-1-270x270-1-32x32.png" alt="image" width="16" height="16"> SWE @ [Jaggaer](https://www.jaggaer.com/), 👨‍💻 My profile on [DevPost](https://devpost.com/PetarRan)
 </div>
@@ -13,7 +13,7 @@ I am a Full-stack Software Engineer with 3+ years of experience in building web 
                   src="https://img.shields.io/github/followers/petarran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-### Some of my skills.. Always learning though. Always in a state of total awareness #unagi
+### Some of my skills.. Always learning tho - A state of total awareness
 
 <img src="https://media3.giphy.com/media/JOe7JxOiMg61ogl6fH/giphy.gif?cid=6c09b952dq1w83tyicf4v77eljhww1v5u9r0bn5ytlm1ja86&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="image" width="200" height="auto">
 
@@ -32,14 +32,7 @@ I am a Full-stack Software Engineer with 3+ years of experience in building web 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
         </picture>
         </a>
-          <a href="https://www.github.com/petarran" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-        </a>
-          <a href="https://www.linkedin.com/in/petarran" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/petarran" target="_blank" rel="noreferrer">
         <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
