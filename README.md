@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Petar
+Hej hej - My name is Petar
 =================================================================================================================================
 <img src="https://www.jaggaer.com/app/uploads/2020/10/cropped-cropped-jaggaer-logo-site-icon-1-270x270-1-32x32.png" alt="image" width="16" height="16"> SWE @ [Jaggaer](https://www.jaggaer.com/), 👨‍💻 My profile on [DevPost](https://devpost.com/PetarRan)
 </div>
