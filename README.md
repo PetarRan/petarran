@@ -1,4 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Hey%2C+I'm+Peter!+I+build+cool+sh*t.;Check+out+my+projects+below!+%F0%9F%94%A5)
+Just a guy trying to write performant code, optimize everything, and avoid O(n²) solutions in production. Big fan of low-latency UIs, scalable systems, and tools that don’t suck.
+
+Fun Facts
+- Everything in my repos was probably over-engineered at some point.
+- Time complexity matters. Yes, even in frontend.
+- Fast code > Clever code. But why not both?
+- I have a beautiful wife, btw.
+- I make things in React, Java, SQL, and whatever else keeps the GC happy.
+- Some Strong Opinions
+  - VIM is elite. But I still use VS Code because productivity > purism.
+  - React is great. Until you need to optimize renders.
+- Maybe I’ll make YouTubes. Maybe not. Schrödinger’s content.
 
 ### Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PetarRan&repo=GitCheers&theme=radical)](https://github.com/PetarRan/GitCheers)
