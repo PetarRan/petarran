@@ -11,6 +11,3 @@ Fun Facts
   - React is great. Until you need to optimize renders.
 - Maybe I’ll make YouTubes. Maybe not. Schrödinger’s content.
 
-### Currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PetarRan&repo=GitCheers&theme=radical)](https://github.com/PetarRan/GitCheers)
-
