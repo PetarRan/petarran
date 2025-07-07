@@ -1,13 +1,10 @@
-Just a guy trying to write performant code, optimize everything, and avoid O(n²) solutions in production. Big fan of low-latency UIs, scalable systems, and tools that don’t suck.
+### fun facts about me
 
-Fun Facts
-- Everything in my repos was probably over-engineered at some point.
-- Time complexity matters. Yes, even in frontend.
-- Fast code > Clever code. But why not both?
+- everything in my repos was probably over-engineered at some point. but I don’t call it that.
+- in 2025, I’m all about shipping fast.
+- also, I’m all about authenticity.
+- you could say I’m a tech evangelist.
+- fast code > clever code. (but why not both?)
 - I have a beautiful wife, btw.
-- I make things in React, Java, SQL, and whatever else keeps the GC happy.
-- Some Strong Opinions
-  - VIM is elite. But I still use VS Code because productivity > purism.
-  - React is great. Until you need to optimize renders.
-- Maybe I’ll make YouTubes. Maybe not. Schrödinger’s content.
-
+- my tech stack constantly shifts; I’m full-stack, so I f*cking adapt.
+- built some cool stuff, will post the demo links soon.
