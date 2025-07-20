@@ -1,8 +1,8 @@
 ### fun facts about me
 
-- everything in my repos was probably over-engineered at some point. but I don’t call it that.
 - in 2025, I’m all about shipping fast.
 - also, I’m all about authenticity.
+- won several international hackathons
 - you could say I’m a tech evangelist.
 - fast code > clever code. (but why not both?)
 - I have a beautiful wife, btw.
