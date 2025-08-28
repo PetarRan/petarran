@@ -7,6 +7,7 @@
 - fast code > clever code. (but why not both?)
 - I have a beautiful wife, btw.
 - my tech stack constantly shifts; I’m full-stack, so I f*cking adapt.
+- on [the journey to the one](https://journeytotheone.com) with [@alessandrododi](https://github.com/alessandrododi)
 
 creator of:
  
