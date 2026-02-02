@@ -1,11 +1,11 @@
 ### fun facts about me
 
-- in 2025, I’m all about shipping fast.
-- also, I’m all about authenticity.
-- won several international hackathons
-- you could say I’m a tech evangelist.
-- fast code > clever code. (but why not both?)
-- I have a beautiful wife, btw.
+- 2026, still moving fast
+- read fast, merge more
+- contributing more to open source
+- hackathons → production
+- biased toward simple things that work
+- I have a beautiful wife, btw
 
 creator of:
  
