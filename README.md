@@ -1,10 +1,7 @@
-### fun facts about me
-
-- 2026, still moving fast
-- read fast, merge more
+- [22x.dev](https://22x.dev)
 - contributing more to open source
-- hackathons → production
-- biased toward simple things that work
+- quick iteration → production
+- neovim >>>
 - I have a beautiful wife, btw
 
 creator of:
